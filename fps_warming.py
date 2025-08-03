@@ -5,7 +5,7 @@ import time
 #screen
 turtle_screen = turtle.Screen()
 turtle_screen.bgcolor("black")
-turtle_screen.title("FPS Warming Game")
+turtle_screen.title("FPS Warm-Up Game")
 turtle_screen.tracer(False)
 
 #score
